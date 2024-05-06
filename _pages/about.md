@@ -11,12 +11,17 @@ I'm currently pursuing Masters in International and Development Economics from Y
 
 Project 1: An Analytics Dashboard for Examining the Economic Dynamics of Countries that have Undergone Democracy Backsliding
 ======
-[Link](https://github.com/Rakkshet/GLBL6060/blob/main/Final%20Project%20-%20Code%20and%20Dataset/GLBL%206060%20Final%20Project%20Code.ipynb)
+[Link](https://github.com/Rakkshet/GLBL5050/blob/main/Final%20Project/Final%20Project-%20Rakkshet%20Singhaal.ipynb)
 
 Project 2: Earthquake Data Analytics App
 ======
-Link: 
+[Link](https://github.com/Rakkshet/GLBL6060/blob/main/Homework%208%20-%20Rakkshet/earthquake_data_reader_app.py)
 
-Project 3: Data Scrapping and Analyzation of Agriculture Sector Donation Towards Politica Parties in India
+Project 3: Population Data Analytics App
 ======
-Link: 
+[Link](https://github.com/Rakkshet/GLBL6060/blob/main/Homework%208%20-%20Rakkshet/population_data_reader_app.py)
+
+Project 4: Data Scrapping and Analyzation of Agriculture Sector Donation Towards Politica Parties in India
+======
+[Link](https://github.com/Rakkshet/GLBL6060/blob/main/Final%20Project%20-%20Code%20and%20Dataset/GLBL%206060%20Final%20Project%20Code.ipynb)
+
