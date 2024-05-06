@@ -1,12 +1,8 @@
 ---
-title: "Paper Title Number 1"
+title: "China’s Investment Strategy under Xi Jinping: Long Term Implications of Belt and Road Initiative and Asian Infrastructure Investment Bank"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'http://www.inquiriesjournal.com/a?id=1932'
+citation: 'Singhaal, Rakkshet. 2022. China's International Investments Under Xi Jinping: Long Term Implications of the Belt and Road Initiative and Asian Infrastructure Investment Bank. Inquiries Journal 14 (01).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The study examines the degree to which Xi Jinping has brought about a strategic shift to the Chinese outward investment pattern and how this may present significant political leverage and military advantages for China in the Indian Ocean Region (IOR). In order to understand China’s intention behind its outward investments, the study examines the numerous outbound investments made by Chinese businesses and state-owned enterprises, especially in the infrastructure and energy sector, and demonstrate a strategic shift brought by Xi Jinping to achieve his domestic objective, which can be seen through the two signature initiatives launched by Xi Jinping: the Belt and Road Initiative, and the Asian Infrastructure Investment Bank (AIIB), which plan on investing $8 trillion in at least 68 countries. This study indicates that these initiatives may eventually leave the countries with a debt problem that will be unsustainable and create an unfavorable level of dependency on China as a creditor, signs of which have already been seen in Djibouti and Pakistan. Finally, the study concludes with the efforts taken by the international community to counter China’s growing political and military leverage in IOR.
