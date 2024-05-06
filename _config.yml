@@ -21,7 +21,7 @@ name                     : &name "Rakkshet Singhaal"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  # avatar           : "profile.png"
+  avatar           : "profile.png"
   name             : "Rakkshet Singhaal"
   pronouns         : # example: "she/her"  
   bio              : "MA in Economics, BA in Economics and Political Science"
